@@ -1,7 +1,7 @@
 # Contest_Clock
 🥳keep you updated about all upcoming coding events🙌
 
-<h2>About</h2>
+<h2>About the Contest Clock</h2>
 
 ![homecc](https://github.com/bhavy3103/Contest_Clock/assets/105499961/4c3336b3-091b-447a-a903-255b106644e3)
 
