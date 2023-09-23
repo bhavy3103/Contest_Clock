@@ -10,7 +10,7 @@
 
 ![howccshow](https://github.com/bhavy3103/Contest_Clock/assets/105499961/15a04e39-72e2-4c86-b9b9-e20ce5c575a8)
 
-<h2> After clicking on visit here </h2>
+<h2> Contest Details </h2>
 
 ![redirectcc](https://github.com/bhavy3103/Contest_Clock/assets/105499961/9072e9f3-f2e8-402d-a445-ee7fe8762d84)
 
